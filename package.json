@@ -1,0 +1,18 @@
+{
+  "name": "codes",
+  "version": "1.0.0",
+  "description": "\"This is a food ordering app.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Nikhil1604-up/Food_Oredering_App)"
+  },
+  "author": "Nikhil Upadhyay",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
